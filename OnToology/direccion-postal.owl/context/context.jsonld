@@ -75,6 +75,9 @@
     "addressArea" : {
       "@id" : "http://www.w3.org/ns/locn#addressArea"
     },
+    "preferredNamespacePrefix" : {
+      "@id" : "http://purl.org/vocab/vann/preferredNamespacePrefix"
+    },
     "isDefinedBy" : {
       "@id" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
     },

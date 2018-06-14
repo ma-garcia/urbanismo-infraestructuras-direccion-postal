@@ -18,15 +18,16 @@
         <dc:rights rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creative Commons Attribution 4.0 International (CC BY 4.0)</dc:rights>
         <dc:title xml:lang="es">Vocabulario para la representación de datos de una dirección postal en España</dc:title>
         <terms:description xml:lang="es">Este vocabulario se utiliza para la descripción de una dirección postal. Reutiliza términos de varios vocabularios que actualmente se utilizan para propósitos similares, incluyendo:
-		- Core Location Vocabulary, schema.org y vCard, que definen la clase Address
-		- WGS84 y GeoSPARQL para la representación de las coordenadas geográficas.
-		- División Administrativa Española y Callejero
-		Asimismo, se actualizará de acuerdo con la evolución de estos vocabularios (especialmente los que están en pleno desarrollo en el momento de creación de este vocabulario, como vCard) y se tendrá en cuenta en el futuro el trabajo que se desarrolle en el grupo del W3C denominado Location And Addresses Community Group (http://www.w3.org/community/locadd/).
-		Este vocabulario aún se encuentra en una situación inestable.		</terms:description>
+- Core Location Vocabulary, schema.org y vCard, que definen la clase Address
+- WGS84 y GeoSPARQL para la representación de las coordenadas geográficas.
+- División Administrativa Española y Callejero
+Asimismo, se actualizará de acuerdo con la evolución de estos vocabularios (especialmente los que están en pleno desarrollo en el momento de creación de este vocabulario, como vCard) y se tendrá en cuenta en el futuro el trabajo que se desarrolle en el grupo del W3C denominado Location And Addresses Community Group (http://www.w3.org/community/locadd/).
+Este vocabulario aún se encuentra en una situación inestable.		</terms:description>
         <terms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal.html"/>
         <terms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal.owl"/>
         <terms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014-04-28</terms:issued>
         <terms:title xml:lang="es">Vocabulario para la representación de datos de una dirección postal en España</terms:title>
+        <vann:preferredNamespacePrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#string">esdir</vann:preferredNamespacePrefix>
         <vann:preferredNamespaceUri rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/direccion-postal#"/>
         <rdfs:comment xml:lang="es">Este vocabulario se utiliza para la descripción de una dirección postal. Reutiliza términos de varios vocabularios que actualmente se utilizan para propósitos similares, incluyendo:
 - Core Location Vocabulary, schema.org y vCard, que definen la clase Address
